@@ -1,1 +1,1 @@
-[![Qrow2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrow2022)](https://github.com/qrow2022/github-readme-stats)
+[![Qrow2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=qrow2022&count_private=true&include_all_commits=true&show_icons=true&theme=gotham)](https://github.com/qrow2022/github-readme-stats)
