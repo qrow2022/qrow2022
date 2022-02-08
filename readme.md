@@ -1,5 +1,5 @@
 
-![Metrics](https://metrics.lecoq.io/qrow2022?template=classic&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/qrow2022?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FNew_York)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qrow2022&layout=compact&theme=gotham&langs_count=5)
